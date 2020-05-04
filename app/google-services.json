@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "947055131050",
+    "firebase_url": "https://quickreport-93410.firebaseio.com",
+    "project_id": "quickreport-93410",
+    "storage_bucket": "quickreport-93410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947055131050:android:05b1f53de6a6809b7c13d3",
+        "android_client_info": {
+          "package_name": "com.project.quickreport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947055131050-qntifg2hi5ruhah5d5pgkoee6pmdns94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARk21wDVqpO2_2vu_itGzEX9FlkNdzps4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947055131050-qntifg2hi5ruhah5d5pgkoee6pmdns94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
